@@ -18,8 +18,8 @@ These exercises are designed to complement the [Ruby Basic lessons](https://www.
 
 #### 1.Basic Data Types
 
-- [X] <span style="text-decoration: line-through">Numbers Exercises</span>
-- [ ] Strings Exercises
+- [X] Numbers Exercises
+- [X] Strings Exercises
 
 #### 6.Arrays
 
